@@ -4,7 +4,7 @@
   "description": "API endpoint to resolve an arbitrary Node.js version with semver support",
   "main": "index.js",
   "dependencies": {
-    "micro": "^9.0.2",
+    "micro": "^9.3.4",
     "node-fetch": "^1.7.3",
     "semver": "^5.4.1"
   },
